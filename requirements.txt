@@ -7,3 +7,4 @@ scikit-learn
 numpy
 matplotlib
 joblib
+python-dotenv
